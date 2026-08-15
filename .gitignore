@@ -1,0 +1,34 @@
+# --- Private local vault ---
+.obsidian/
+00 - Inbox/
+01 - Sources/
+10 - Meta/
+
+# --- Private knowledge-building pipeline ---
+.claude/
+CLAUDE.md
+scripts/
+schema/
+templates/
+
+# --- Copyrighted/source material (belt-and-suspenders, anywhere in the repo) ---
+*.pdf
+*.epub
+*.mobi
+
+# --- Python / runtime ---
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# --- Local settings / secrets ---
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# --- Windows/OS artifacts ---
+desktop.ini
+Thumbs.db
