@@ -86,8 +86,8 @@ themselves are never published, out of respect for copyright.
 
 | Layer | Notes |
 | --- | ---: |
-| Concepts | 28 |
-| Models | 5 |
+| Concepts | 38 |
+| Models | 9 |
 | Strategies | 5 |
 | Execution | 2 |
 | People | 0 |
@@ -100,7 +100,7 @@ themselves are never published, out of respect for copyright.
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:BEGIN -->
 ## Knowledge Sources
 
-Knowledge currently synthesized from 6 books.
+Knowledge currently synthesized from 8 books.
 
 - *A Random Walk Down Wall Street* — Burton G. Malkiel
 - *Economics in One Lesson* — Henry Hazlitt
@@ -108,6 +108,8 @@ Knowledge currently synthesized from 6 books.
 - *Principles for Dealing with the Changing World Order* — Ray Dalio
 - *Python for Data Analysis* — Wes McKinney:
 - *Storytelling with Data* — Cole Nussbaumer Knaflic
+- *The Art of Statistics - Learning From Data* — David Spiegelhalter:
+- *The Intelligent Investor* — - Benjamin Graham
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:END -->
 
 ## Getting Started with Obsidian
@@ -141,21 +143,13 @@ The repository is plain Markdown, so the notes can also be read with any Markdow
 Start with the main knowledge layers:
 
 - `02 - Concepts/` — core ideas, phenomena, biases, and theories.
-    
 - `03 - Models/` — formal models and mathematical frameworks.
-    
 - `04 - Strategies/` — trading and investing approaches.
-    
 - `05 - Execution/` — practical implementation and portfolio techniques.
-    
 - `06 - People/` — researchers and practitioners.
-    
 - `07 - Frameworks/` — reusable analytical frameworks.
-    
 - `08 - Case Studies/` — real-world market episodes and applications.
-    
 - `09 - Maps/` — curated indexes connecting related notes.
-    
 
 Open any note and follow its `[[wikilinks]]` to navigate through the knowledge graph.
 

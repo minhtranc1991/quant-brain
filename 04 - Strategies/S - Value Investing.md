@@ -19,6 +19,8 @@ Earn a return premium by systematically holding stocks priced low relative to fu
 
 Two competing explanations, both presented by the source and not resolved between them: (1) **behavioral/mispricing** — investors are systematically overconfident about high-growth ("glamour") companies' prospects and overpay for them (the same overconfidence and castle-in-the-air mechanisms covered elsewhere in this vault's Concept layer), so low-multiple stocks are underpriced relative to their true worth, in the tradition of Graham and Dodd's original 1934 "value" manifesto; (2) **risk compensation** — low P/E and low P/BV can instead signal genuine financial distress (the book's own example: major U.S. banks trading below book value in 2009 were under real bankruptcy/nationalization risk), so the "value premium" is compensation for bearing that distress risk rather than free alpha, as formalized in the [[M - Fama-French Three-Factor Model]]'s value (HML) factor. Malkiel's synthesis leans toward the risk-based explanation being at least partly correct but explicitly declines to fully resolve which mechanism dominates.
 
+Graham's own, earlier and more mechanism-level account (foundational to this strategy, not merely a modern implementation of it) — buying a security below its intrinsic value, with a numerical margin of safety that absorbs estimation error and bad luck — gives a concrete, non-statistical rationale for why the behavioral/mispricing explanation should hold at all: a security priced below a conservatively-estimated intrinsic value has room to be wrong about the estimate and still not lose money, independent of whether the market ever "corrects" the mispricing on any particular timetable. This distinguishes the strategy's alpha logic from pure statistical factor-harvesting: the source's most literal implementation is buying below net current asset value (current assets minus all liabilities, ignoring fixed assets and goodwill entirely), which produced favorable aggregate results across diversified baskets historically even where individual constituent businesses were mediocre.
+
 ## 3. Models Used
 
 - [[M - Fama-French Three-Factor Model]]
@@ -57,3 +59,5 @@ Two competing explanations, both presented by the source and not resolved betwee
 ## 10. Related Case Studies
 
 - _(None created in this ingestion — see Chapter 3's ZZZZ Best/Nifty Fifty narrative material, left uncaptured as a standalone Case Study note given this ingestion's bounded scope.)_
+
+#status/needs-review
