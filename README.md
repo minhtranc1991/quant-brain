@@ -1,5 +1,5 @@
 # Quant Trading Knowledge Graph
-
+![Quant Trading Knowledge Graph](Images/20260815154747.png)
 A public quantitative knowledge base — a structured, interconnected graph of
 concepts, models, strategies, and execution mechanisms in quantitative
 trading, investing, portfolio management, and market microstructure.
