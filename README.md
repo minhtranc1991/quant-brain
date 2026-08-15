@@ -86,13 +86,13 @@ themselves are never published, out of respect for copyright.
 
 | Layer | Notes |
 | --- | ---: |
-| Concepts | 38 |
+| Concepts | 43 |
 | Models | 9 |
 | Strategies | 5 |
 | Execution | 2 |
 | People | 0 |
-| Frameworks | 0 |
-| Case Studies | 0 |
+| Frameworks | 1 |
+| Case Studies | 1 |
 | Maps | 0 |
 <!-- AUTO-GENERATED:KNOWLEDGE-COVERAGE:END -->
 
@@ -100,7 +100,7 @@ themselves are never published, out of respect for copyright.
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:BEGIN -->
 ## Knowledge Sources
 
-Knowledge currently synthesized from 8 books.
+Knowledge currently synthesized from 10 books.
 
 - *A Random Walk Down Wall Street* — Burton G. Malkiel
 - *Economics in One Lesson* — Henry Hazlitt
@@ -110,6 +110,8 @@ Knowledge currently synthesized from 8 books.
 - *Storytelling with Data* — Cole Nussbaumer Knaflic
 - *The Art of Statistics - Learning From Data* — David Spiegelhalter:
 - *The Intelligent Investor* — - Benjamin Graham
+- *The Signal and the Noise* — Nate Silver:
+- *Thinking, Fast and Slow* — Daniel Kahneman:
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:END -->
 
 ## Getting Started with Obsidian

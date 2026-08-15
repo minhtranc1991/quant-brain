@@ -20,6 +20,9 @@ domain:
 - A key behavioral consequence in investing: the "disposition effect" — investors tend to sell winning positions (to lock in the pleasure of being "right") and hold losing positions (to avoid the pain of realizing a loss and admitting a mistake), even though this is tax-inefficient (short-term gains are taxed at higher rates, and realized losses can offset other gains) and contrary to the rational prescription. The book documents this directly in a large brokerage-account study (Barber and Odean).
 - Loss aversion interacts with framing: when the *same* underlying outcome is presented as a loss rather than a gain, choices change — e.g. subjects are risk-averse for a "200 of 600 saved" framing but risk-seeking for the logically identical "400 of 600 will die" framing (Kahneman-Tversky's Asian disease experiment). This shows the effect is triggered by how a decision is described, not solely by its objective structure.
 
+- **Enrichment — negativity dominance, the broader basis for loss aversion ([[Thinking, Fast and Slow]]):** loss aversion is one specific instance of a more general "negativity dominance" feature of the mind. Across many independent lines of evidence (faster facial-threat recognition than facial-pleasure recognition, negotiation research, marital-relationship-quality studies finding good interactions must outnumber bad ones roughly five-to-one to sustain relationship satisfaction), bad events and information are registered faster, weighted more heavily, and harder to reverse in effect than good events of comparable magnitude — implying the asymmetry in financial loss aversion is not a narrow economic quirk but an expression of a broad, evolutionarily-plausible cognitive design feature. Source: [[Thinking, Fast and Slow]], Chapter 28.
+- **Enrichment — mental accounting and the sunk-cost fallacy, reinforcing the disposition effect ([[Thinking, Fast and Slow]]):** mental accounting — tracking money in separate, non-fungible psychological "accounts" rather than as a single fungible pool (e.g. treating gambling winnings, or "house money" from an earlier win, as more disposable than equivalent salary income) — produces the sunk-cost fallacy (continuing a losing course of action partly to avoid the finality of closing that account at a realized loss) and reinforces the disposition effect documented below: a paper loss can be held indefinitely partly because realizing it means closing (and finalizing the regret of) that specific mental account, not only because of the loss's raw financial magnitude. Source: [[Thinking, Fast and Slow]], Chapter 32.
+
 ## 3. Mathematical perspective (if applicable)
 
 $$v(x) = \begin{cases} x^{\alpha} & x \geq 0 \\ -\lambda(-x)^{\beta} & x < 0 \end{cases}, \quad \lambda \approx 2.25$$
@@ -39,6 +42,7 @@ The prospect-theory value function $v(x)$ (Kahneman-Tversky's original specifica
 
 - [[C - Overconfidence Bias]] — a separate but co-occurring source of investor irrationality covered in the same chapter.
 - [[C - Limits to Arbitrage]] — loss-averse, regret-avoiding behavior is one of the behavioral inputs that can sustain mispricing which rational arbitrage does not fully correct.
+- [[C - Endowment Effect]] — a distinct, separately-named behavioral prediction of loss aversion (the willingness-to-accept/willingness-to-pay valuation gap for an owned good), classically treated apart from the disposition effect though both derive from the same underlying value-function asymmetry.
 
 ## 7. Pitfalls
 
@@ -48,3 +52,6 @@ The prospect-theory value function $v(x)$ (Kahneman-Tversky's original specifica
 ## 8. Minimal Example
 
 - The disposition effect study of 10,000 discount-brokerage clients (Barber and Odean) found a clear, statistically pronounced tendency to sell winning stocks and hold losing stocks — the empirical signature of loss aversion in real trading behavior. Source: [[A Random Walk Down Wall Street]], Chapter 10.
+- **Enrichment — the theory's originator's own account ([[Thinking, Fast and Slow]]):** Kahneman and Tversky's rejected-fair-gamble experiment (subjects require the gain side of a 50/50 bet to rise to roughly $250 against a $100 loss before accepting) is the same finding this note's Intuition section already documents, now grounded directly in the originating source rather than only in Malkiel's secondhand summary. Source: [[Thinking, Fast and Slow]], Chapter 26.
+
+#status/needs-review
