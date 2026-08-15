@@ -1,0 +1,26 @@
+{
+  "access_date": "2026-08-15",
+  "author": "Wes McKinney",
+  "canonical_url": "https://wesmckinney.com/book/",
+  "chapter_url_map": {
+    "1": "https://wesmckinney.com/book/preliminaries",
+    "2": "https://wesmckinney.com/book/python-language-basics",
+    "3": "https://wesmckinney.com/book/python-builtin",
+    "4": "https://wesmckinney.com/book/numpy-basics",
+    "5": "https://wesmckinney.com/book/pandas-basics",
+    "6": "https://wesmckinney.com/book/accessing-data",
+    "7": "https://wesmckinney.com/book/data-cleaning",
+    "8": "https://wesmckinney.com/book/data-wrangling",
+    "9": "https://wesmckinney.com/book/plotting-and-visualization",
+    "10": "https://wesmckinney.com/book/data-aggregation",
+    "11": "https://wesmckinney.com/book/time-series",
+    "12": "https://wesmckinney.com/book/modeling",
+    "13": "https://wesmckinney.com/book/data-analysis-examples"
+  },
+  "edition": "3rd Edition",
+  "local_path": null,
+  "resolution_status": "RESOLVED",
+  "source_authority": "Author-hosted official Open Access HTML edition (McKinney is the book's author); narrative content mirrored under author permission in the companion GitHub repo github.com/wesm/pydata-book (3rd-edition branch), whose README states book content is freely available on the author's website.",
+  "source_type": "AUTHOR_WEB",
+  "title": "Python for Data Analysis"
+}

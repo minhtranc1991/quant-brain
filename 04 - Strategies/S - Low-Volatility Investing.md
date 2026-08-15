@@ -4,7 +4,6 @@ modified:
 created: 2026-08-15
 tags:
   - quantitative-trading
-  - status/needs-review
 layer: strategy
 type: core
 domain:

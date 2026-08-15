@@ -4,7 +4,6 @@ modified:
 created: 2026-08-15
 tags:
   - portfolio-management
-  - status/needs-review
 layer: model
 type: core
 domain:

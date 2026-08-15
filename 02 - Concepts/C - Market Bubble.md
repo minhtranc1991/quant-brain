@@ -4,7 +4,6 @@ modified:
 created: 2026-08-15
 tags:
   - investing
-  - status/needs-review
 layer: concept
 type: core
 domain:
@@ -39,6 +38,7 @@ _(Not applicable — the book treats bubbles descriptively/historically rather t
 - [[C - Castle in the Air Theory]] — the valuation logic that makes bubble pricing possible.
 - [[C - Herd Behavior]] — the crowd-psychology mechanism that sustains the feedback loop.
 - [[C - Limits to Arbitrage]] — explains why rational, well-capitalized traders cannot reliably correct bubble mispricing while it is inflating.
+- [[C - Long-Term Debt Cycle]] — debt-financed asset purchases outpacing the capacity of future cash flows to service them is one macro-level driver of a bubble's feedback loop; a market bubble is a visible symptom of the credit-expansion phase of the debt cycle, not identical to it.
 
 ## 7. Pitfalls
 

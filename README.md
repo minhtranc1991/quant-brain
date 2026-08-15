@@ -86,9 +86,9 @@ themselves are never published, out of respect for copyright.
 
 | Layer | Notes |
 | --- | ---: |
-| Concepts | 12 |
+| Concepts | 25 |
 | Models | 5 |
-| Strategies | 4 |
+| Strategies | 5 |
 | Execution | 2 |
 | People | 0 |
 | Frameworks | 0 |
@@ -100,7 +100,120 @@ themselves are never published, out of respect for copyright.
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:BEGIN -->
 ## Knowledge Sources
 
-Knowledge currently synthesized from 1 book.
+Knowledge currently synthesized from 5 books.
 
 - *A Random Walk Down Wall Street* — Burton G. Malkiel
+- *Economics in One Lesson* — Henry Hazlitt
+- *Fooled by Randomness* — Nassim Nicholas Taleb
+- *Principles for Dealing with the Changing World Order* — Ray Dalio
+- *Python for Data Analysis* — Wes McKinney:
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:END -->
+
+## Getting Started with Obsidian
+
+The easiest way to explore this knowledge graph is with [Obsidian](https://obsidian.md/).
+
+### 1. Download the Repository
+
+Download the repository from GitHub as a ZIP file and extract it to a local folder.
+
+Alternatively, if you are familiar with Git:
+
+```bash
+git clone <repository-url>
+```
+
+The repository contains only the public knowledge layer. The private research library and knowledge-building pipeline are intentionally excluded.
+
+### 2. Open It as an Obsidian Vault
+
+Open Obsidian and select:
+
+**Open folder as vault** → select the downloaded repository folder.
+
+You do not need to install or configure anything else to start browsing the knowledge base.
+
+The repository is plain Markdown, so the notes can also be read with any Markdown-compatible editor.
+
+### 3. Start Exploring
+
+Start with the main knowledge layers:
+
+- `02 - Concepts/` — core ideas, phenomena, biases, and theories.
+    
+- `03 - Models/` — formal models and mathematical frameworks.
+    
+- `04 - Strategies/` — trading and investing approaches.
+    
+- `05 - Execution/` — practical implementation and portfolio techniques.
+    
+- `06 - People/` — researchers and practitioners.
+    
+- `07 - Frameworks/` — reusable analytical frameworks.
+    
+- `08 - Case Studies/` — real-world market episodes and applications.
+    
+- `09 - Maps/` — curated indexes connecting related notes.
+    
+
+Open any note and follow its `[[wikilinks]]` to navigate through the knowledge graph.
+
+### 4. Recommended Starting Point
+
+If you are new to the repository, start with `02 - Concepts/` and follow the links from Concepts to Models, Strategies, and Execution.
+
+A typical path through the graph looks like:
+
+**Concept → Model → Strategy → Execution**
+
+For example:
+
+**Efficient Market Hypothesis → Capital Asset Pricing Model → Value Investing → Portfolio Rebalancing**
+
+The graph is designed to be explored through relationships rather than read linearly like a book.
+
+### 5. Using the Graph View
+
+Obsidian's built-in Graph View can be used to visualize relationships between notes.
+
+Open:
+
+**Settings → Core plugins → Graph view**
+
+Then use the graph to explore connections between Concepts, Models, Strategies, and other layers.
+
+For a more focused view, open the graph from an individual note to see its local neighborhood.
+
+### 6. Keeping Your Own Copy
+
+The repository is a public knowledge base, so you are free to download it and use it as your own local Markdown/Obsidian knowledge base.
+
+You can add your own private notes locally without publishing them back to the repository.
+
+If you want to keep your local additions separate from the public knowledge base, consider using your own Git branch or a separate private vault.
+
+### 7. Keeping Your Copy Updated
+
+If you downloaded the repository as a ZIP file, download a new copy when you want the latest version.
+
+If you cloned the repository with Git, update it with:
+
+```bash
+git pull
+```
+
+Because the repository contains only the public knowledge layer, updates do not include the private research sources or internal knowledge-building workflow used to create the notes.
+
+### 8. Note on Wikilinks
+
+The notes use Obsidian-compatible wikilinks such as:
+
+```markdown
+[[Efficient Market Hypothesis]]
+[[Capital Asset Pricing Model]]
+[[Momentum Investing]]
+```
+
+Obsidian resolves these links automatically when the corresponding notes are present in the vault.
+
+If you use another Markdown application, the notes remain readable, but wikilink navigation may require application-specific support.
