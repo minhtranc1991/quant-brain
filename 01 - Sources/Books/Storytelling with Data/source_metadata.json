@@ -1,0 +1,17 @@
+{
+  "access_date": "2026-08-15",
+  "author": "Cole Nussbaumer Knaflic",
+  "canonical_url": "https://www.storytellingwithdata.com/books",
+  "chapter_url_map": {},
+  "edition": "1st edition, Wiley, 2015",
+  "local_path": "01 - Sources/Books/Storytelling with Data/[Data-Visualization]_Cole-Nussbaumer-Knaflic-Storytelling-with-Data_A-Data-Visualization-Guide-for-Business-Professionals-(2016_2015,-John-Wiley-&-Sons).pdf",
+  "resolution_status": "RESOLVED",
+  "source_authority": "Local user-supplied PDF (highest-priority LOCAL_FILE resolution, verified via PDF metadata: Title=\"Storytelling with Data\", Author=\"Cole Nussbaumer Knaflic\", EBX_PUBLISHER=\"Wiley\"), superseding the prior AUTHOR_WEB bounded resolution. Full chapter text confirmed accessible and used for chapter-level extraction (see Chapters/ folder).",
+  "source_type": "LOCAL_FILE",
+  "title": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+  "prior_resolution": {
+    "source_type": "AUTHOR_WEB",
+    "resolution_status": "RESOLVED",
+    "note": "Superseded 2026-08-15 by LOCAL_FILE resolution once a legitimate local PDF appeared in 00 - Inbox/."
+  }
+}

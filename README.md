@@ -86,7 +86,7 @@ themselves are never published, out of respect for copyright.
 
 | Layer | Notes |
 | --- | ---: |
-| Concepts | 25 |
+| Concepts | 28 |
 | Models | 5 |
 | Strategies | 5 |
 | Execution | 2 |
@@ -100,13 +100,14 @@ themselves are never published, out of respect for copyright.
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:BEGIN -->
 ## Knowledge Sources
 
-Knowledge currently synthesized from 5 books.
+Knowledge currently synthesized from 6 books.
 
 - *A Random Walk Down Wall Street* — Burton G. Malkiel
 - *Economics in One Lesson* — Henry Hazlitt
 - *Fooled by Randomness* — Nassim Nicholas Taleb
 - *Principles for Dealing with the Changing World Order* — Ray Dalio
 - *Python for Data Analysis* — Wes McKinney:
+- *Storytelling with Data* — Cole Nussbaumer Knaflic
 <!-- AUTO-GENERATED:KNOWLEDGE-SOURCES:END -->
 
 ## Getting Started with Obsidian
